@@ -1,2 +1,10 @@
 # JeasyGradle
-Just for newbie and who don't want to use a heavy ide for java coding ;)
+
+# **~~~**
+
+If your device is not strong enough to run Eclipse, IntelliJ, … or easily you don&#39;t want depend on IDEs too much?!
+
+→ This repo will help you how to create Java Application and export runnable jar file quickly.
+
+## →Tutorial
+[![asciicast](https://asciinema.org/a/340167.svg)](https://asciinema.org/a/340167)
